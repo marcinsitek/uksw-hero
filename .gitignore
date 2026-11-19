@@ -32,3 +32,5 @@ Makefile
 
 # IDE and editor files
 .vscode/
+
+.env
