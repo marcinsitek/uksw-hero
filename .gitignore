@@ -34,3 +34,5 @@ Makefile
 .vscode/
 
 .env
+/client/README.md
+/server/README.md
