@@ -1,0 +1,34 @@
+# Go
+*.exe
+*.test
+*.out
+*.prof
+coverage.txt
+coverage.html
+vendor/
+
+# C++ compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# CMake
+/client/build/
+/client/build-events/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+
+# IDE and editor files
+.vscode/
